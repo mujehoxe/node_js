@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ahmed",
+    "age": 15
+  },
+  {
+    "name": "moh",
+    "age": 15,
+    "degrees": ["bachlors", "masters"]
+  }
+]
